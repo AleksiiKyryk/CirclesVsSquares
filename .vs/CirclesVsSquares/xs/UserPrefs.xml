@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6FFBDFF3-8738-807B-0C1E-6B2223C502D1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnPlayers.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="7" Column="27" />
+      <File FileName="Assets/Scripts/AIPlayer.cs" Line="40" Column="10" />
+      <File FileName="Assets/Scripts/HumanPlayer.cs" Line="38" Column="57" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="32" Column="22" />
+      <File FileName="Assets/Scripts/TeamatePlayer.cs" Line="13" Column="37" />
+      <File FileName="Assets/Scripts/EnemyBullet.cs" Line="36" Column="10" />
+      <File FileName="Assets/Scripts/EnemyPlayer.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="45" Column="37" />
+      <File FileName="Assets/Scripts/SpawnPlayers.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CirclesVsSquares" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SpawnPlayers.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7bdeb6af-27c3-4cc7-8bf2-78b03dbb3832" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
